@@ -1,0 +1,211 @@
+support_ticket_id,raw_ticket_text,generated_summary,generated_response
+1,"I cannot believe the level of service I have received. I have been a loyal ShopNest customer since 2020 and have spent thousands of dollars on this platform. I have recommended ShopNest to everyone I know - my coworkers, my neighbors, my entire book club. I have never once filed a complaint or asked for anything special. I always leave five star reviews and I tip delivery drivers generously. And THIS is how you treat your most loyal customers? I am beyond frustrated. I spent over three hours today trying to reach your support team and not a single person gave me a straight answer. Your chatbot is completely useless, your email support is nonexistent, and your phone line had a 40 minute hold time. I have screenshots of every single interaction. I will be filing a complaint with the Better Business Bureau if this is not resolved by end of day. Anyway. Order SNX-4421 for a Bosch dishwasher. Delivered wrong model. Want replacement.","Issue: Customer received the wrong model of a Bosch dishwasher (Order SNX-4421) and is frustrated with the service experience.  
+Summary: The customer, a long-time ShopNest user, is upset about the poor support received while trying to resolve an issue with their order. They are requesting a replacement for the incorrectly delivered dishwasher and have expressed intent to escalate the matter if not resolved promptly.  
+Action: Investigate the order SNX-4421 and arrange for a replacement of the Bosch dishwasher.","Greeting: I'm sorry to hear about the trouble you've experienced with your Bosch dishwasher order.
+
+Body: We are currently investigating order SNX-4421 to understand how the wrong model was delivered. Our team will arrange for a replacement of the dishwasher as soon as possible. 
+
+Closing: Thank you for your patience, and we will update you shortly on the progress of your replacement."
+2,"Ord SNX-8902 ACH debit failed at checkout, tried 2x. CC also declined. PayPal unavail for this item. Need NDD before the 15th. Card limit confirmed ok but txn still failing. Pls check PG logs and escalate. Alt PMT: can store credit from prev RMA be applied to this order? ASAP.","Issue: Payment methods for order SNX-8902 are failing.  
+Summary: The customer attempted to complete the checkout for order SNX-8902 using ACH debit and credit card, both of which were declined. They are requesting to apply store credit from a previous RMA to this order and need a resolution before the 15th.  
+Action: Check payment gateway logs for issues and escalate the ticket; confirm if store credit can be applied.","Greeting: I'm sorry to hear you're having trouble with the payment methods for your order SNX-8902.
+
+Body: We will check the payment gateway logs to identify any issues that may have caused the declines. Additionally, I will confirm if your store credit from the previous RMA can be applied to this order. 
+
+Closing: We will update you as soon as we have more information; please feel free to reach out if you have any further questions in the meantime."
+3,not working. please help.,"Issue: The customer is experiencing a problem but has not specified the details.  
+Summary: The ticket is vague and does not provide information about the specific issue or context. Further clarification is needed from the customer to assist effectively.  
+Action: Request the customer to provide more details about the issue they are facing.","Greeting: Thank you for reaching out to us with your concern.
+
+Body: To assist you effectively, could you please provide more details about the specific issue you are experiencing? This information will help us understand the situation better and offer the appropriate support.
+
+Closing: Once we have this information, we can proceed with the next steps to resolve your issue."
+4,"Okay so I have genuinely had it with this company. Every single time I place an order something goes wrong. Last month it was a delayed delivery. The month before that it was a damaged product. Before that it was a wrong item sent. I have contacted support so many times I have lost count. Every single time I am told the issue will be resolved within 24 to 48 hours and it never is. I sit and wait and absolutely nothing happens. Then I have to follow up again and I get another sorry for the inconvenience. Sorry does not fix anything. I work full time and I do not have the bandwidth to keep chasing a company for basic service delivery. My colleagues have been telling me to switch platforms and honestly I am starting to think they are right. Order #SNX-9021, KitchenAid stand mixer, payment charged twice for the same order. Need one charge reversed immediately.","Issue: Customer is frustrated with repeated order issues and double payment charge.  
+Summary: The customer has experienced multiple problems with orders, including delayed delivery, damaged products, and incorrect items. They are now facing a double charge for their recent order of a KitchenAid stand mixer and request an immediate reversal of one charge.  
+Action: Process the reversal of the duplicate charge for order #SNX-9021 and address the customer's ongoing issues with service delivery.","Greeting: I'm sorry to hear about the difficulties you've been experiencing with your orders and the double charge.
+
+Body: We will process the reversal of the duplicate charge for your KitchenAid stand mixer order #SNX-9021. Additionally, we are reviewing your account to address the ongoing issues with service delivery, including delayed delivery, damaged products, and incorrect items.
+
+Closing: Please let us know if there are any other specific concerns you would like us to address while we work on resolving these issues."
+5,refund not received,"Issue: Customer has not received a refund.  
+Summary: The customer is inquiring about the status of their refund, which has not yet been received. No additional details about the order or refund process are provided.  
+Action: Verify the refund status and provide an update to the customer.","Greeting: Thank you for reaching out about the status of your refund.
+
+Body: I will verify the status of your refund and provide you with an update as soon as possible. If you have any specific details about the order or transaction, such as the order number, please share them to help expedite the process.
+
+Closing: Once I have more information, I will update you on the status of your refund."
+6,"Hi. I placed an order for a laptop. It is a Dell. I ordered it last Monday I think or maybe Tuesday. The order number is in my email somewhere - I believe it is SNX-3310 or maybe SNX-3130, I am not completely sure. Delivery came two days later which I thought was great. But when I opened the box the laptop would not turn on at all. I tried charging it for over an hour. Nothing. I tried a different charger I had at home. Still nothing. My roommate who works in IT also took a look and said it sounds like a hardware defect straight out of the box. The outer box also had a small dent on one corner but I am not sure if that is relevant. I want to return it and get a replacement. Or maybe a refund. I am honestly not sure which option makes more sense for me. Can someone advise? Also is there a home pickup option because I do not have easy access to a drop off location.","Issue: Laptop received is not turning on after delivery.  
+Summary: The customer ordered a Dell laptop, which was delivered two days after the order. Upon opening the box, the laptop did not power on despite attempts to charge it and using a different charger. The customer is seeking advice on returning the defective unit for a replacement or refund and inquiring about home pickup options.  
+Action: Provide information on return process, replacement or refund options, and home pickup availability.","Greeting: I'm sorry to hear that your new laptop isn't turning on; I understand how disappointing that must be.
+
+Body: We will initiate the return process for your defective Dell laptop. To proceed, please confirm if you prefer a replacement or a refund. Once we have this information, we can also check the availability of home pickup options for your area.
+
+Closing: Please let us know your preference for a replacement or refund, and we'll move forward with the next steps."
+7,ORDER SNX-6612 DELIVERED WRONG ITEM. I ORDERED NIKE RUNNING SHOES SIZE 11 AND THEY SENT SOME RANDOM SANDAL I HAVE NEVER EVEN HEARD OF. THIS IS THE THIRD WRONG ITEM THIS MONTH. I WANT MY SHOES OR A FULL REFUND. ALSO WHY IS THERE NO DIRECT PHONE NUMBER - YOUR CHATBOT IS COMPLETELY USELESS AND I AM DONE WITH IT.,"Issue: Wrong item delivered for order SNX-6612.  
+Summary: The customer ordered Nike running shoes in size 11 but received an unknown sandal instead. This is the third incorrect item received this month, and the customer is requesting either the correct shoes or a full refund.  
+Action: Investigate the order details and arrange for the correct item to be sent or process a refund.","Greeting: I'm sorry to hear about the repeated issues with your order.
+
+Body: We will investigate the order details for SNX-6612 to understand how this error occurred. Our team will then arrange to send you the correct Nike running shoes in size 11 or process a refund, based on your preference.
+
+Closing: We will update you as soon as we have more information on the resolution."
+8,"Hello, good morning. I hope this message finds you well. I am reaching out today regarding a small matter pertaining to a recent order of mine. I do not wish to be a burden and I fully understand how busy your team must be. I simply wanted to follow up when you have a free moment as I have been waiting for a little while now. I appreciate everything your team does and I am grateful for your time. Warm regards.","Issue: Customer is following up on a recent order status.  
+Summary: The customer is inquiring about the status of their recent order and has been waiting for a response. They express understanding of the team's busyness and appreciation for their efforts.  
+Action: Check the status of the customer's order and provide an update.","Greeting: Thank you for reaching out and for your understanding and patience.
+
+Body: I will check the status of your recent order and provide you with an update as soon as possible. We appreciate your patience as we ensure everything is in order.
+
+Closing: I will follow up with you once I have the latest information on your order status."
+9,"hey so my package still hasnt shown up, its been like a week maybe more? the app says delivered but nothing came. checked with my neighbor and they didnt see anything either. pretty annoyed honestly. can someone look into this and either resend or refund me thanks","Issue: Package marked as delivered but not received.  
+Summary: The customer reports that their package has not arrived despite the app indicating it was delivered over a week ago. They have checked with neighbors and are seeking assistance for a resend or refund.  
+Action: Investigate the delivery status and initiate a resend or refund as appropriate.","Greeting: Thank you for reaching out and sharing your concern about the missing package.
+
+Body: We will investigate the delivery status to determine what happened with your package. Once we have more information, we will proceed with either resending the item or processing a refund, depending on the outcome.
+
+Closing: We appreciate your patience and will update you as soon as we have more details."
+10,"I want to be very clear about how disappointed I am with this entire experience. Two full weeks. Two weeks and I have received nothing but conflicting information and broken promises. I have called four separate times. Each agent told me something completely different. First it was a warehouse backlog. Then it was a carrier issue. Then I was told my address was incomplete - which is absolutely false because I have received over a dozen previous orders at this exact address without any issue whatsoever. I even emailed a screenshot of my confirmed address and was still told it was incorrect. The level of disorganization here is genuinely shocking. I have already contacted my state's consumer protection office and I am keeping a full record of every interaction. Order SNX-2201, Bose noise cancelling headphones, still not delivered after 14 days. Tracking has been frozen since day three.","Issue: Order SNX-2201 for Bose noise cancelling headphones has not been delivered after 14 days.  
+Summary: The customer is frustrated with conflicting information received from multiple agents regarding the delay in delivery. They have reported issues with tracking and have confirmed their address, which was incorrectly stated as incomplete.  
+Action: Investigate the order status and provide a clear update to the customer regarding the delivery issue.","Greeting: I'm sorry to hear about the frustration you've experienced with your order for Bose noise cancelling headphones.
+
+Body: We will investigate the current status of your order SNX-2201 and clarify the delivery issue, especially regarding the tracking and address details. Our team will review the information provided and ensure that the address is complete and correct for delivery.
+
+Closing: We will update you with our findings as soon as possible. Thank you for your patience."
+11,"Payment gateway returning a 502 error at checkout. Tried incognito mode, cleared cache, tested on two different browsers, issue persists. My Visa debit card is showing a pre-authorization hold of $89.99 but the order was never confirmed and no order ID was generated. Transaction reference from my bank statement is TXN8821047. Is this a gateway timeout on your end or a merchant-side failure? I need either an order confirmation or the pre-auth hold released within 24 hours otherwise I will dispute the charge with my bank.","Issue: Customer is experiencing a 502 error at checkout with no order confirmation generated.  
+Summary: The customer has attempted to resolve the issue by using incognito mode, clearing cache, and testing on different browsers, but the error persists. They have a pre-authorization hold of $89.99 on their Visa debit card without an order ID and are requesting resolution within 24 hours to avoid disputing the charge.  
+Action: Investigate the payment gateway issue and confirm whether the pre-authorization hold can be released or provide an order confirmation.","Greeting: Thank you for reaching out and letting us know about the 502 error you're experiencing at checkout.
+
+Body: We will investigate the payment gateway issue to determine why the pre-authorization hold of $89.99 was placed on your Visa debit card without generating an order confirmation. Our team will check if the hold can be released or if we can provide an order confirmation for your purchase.
+
+Closing: We will update you as soon as we have more information; please feel free to follow up if you have any further questions."
+12,So I was just browsing the app and added a few things to my cart and then I figured why not just go ahead and order and so I did and I got a confirmation email right away which was great and I was pretty excited and then the next day I checked the app and it said processing and then the day after that it still said processing and now it has been almost five days and it is still just sitting there saying processing and my friend said maybe the item went out of stock but then why did you even let me complete the order and charge my card and also that money is just tied up now and what if I need it for something else and I have ordered from here before with no issues so I really do not know what is different this time,"Issue: Order stuck in processing status for five days.  
+Summary: The customer placed an order through the app and received a confirmation email, but the order has been in a ""processing"" status for almost five days. They are concerned about the possibility of the item being out of stock and the funds being tied up.  
+Action: Investigate the order status and provide an update to the customer regarding the processing issue.","Greeting: Thank you for reaching out about your order being stuck in processing.
+
+Body: I understand your concern about the delay and potential stock issues. Our team will investigate the current status of your order to determine why it has not progressed beyond processing. We will update you as soon as we have more information.
+
+Closing: We appreciate your patience, and we'll be in touch with an update soon."
+13,Order SNX-8833 not delivered. Seven days past estimated delivery date. No update in the app. Requesting a full refund.,"Issue: Order SNX-8833 not delivered after the estimated delivery date.  
+Summary: The customer reports that their order, SNX-8833, has not been delivered and is now seven days past the estimated delivery date. They have not received any updates in the app and are requesting a full refund.  
+Action: Process the refund for order SNX-8833 and investigate the delivery issue.","Greeting: Thank you for reaching out and letting us know about the delay with your order SNX-8833.
+
+Body: We will process a refund for your order and investigate the delivery issue to understand what went wrong. No further information is needed from you at this time.
+
+Closing: You can expect an update from us once the refund has been processed and the investigation is complete."
+14,i orderd a lenovo latop order no SNX-441 it arived yestrday but the charjer is mising from the box. i ned the charjer sent asap or i will rtrn the hole thing. pls do smthing quick its for wrk,"Issue: Missing charger for Lenovo laptop order SNX-441.  
+Summary: The customer received their Lenovo laptop yesterday but reported that the charger was missing from the box. They are requesting the charger to be sent as soon as possible to avoid returning the entire order.  
+Action: Investigate the missing charger and arrange for a prompt shipment to the customer.","Greeting: Thank you for bringing this to our attention, and I'm sorry to hear that the charger was missing from your order.
+
+Body: We will investigate the issue of the missing charger for your Lenovo laptop and arrange for a prompt shipment to you. Our team will confirm the details and ensure the charger is sent out as soon as possible.
+
+Closing: We appreciate your patience, and we'll update you once the charger has been dispatched."
+15,😡😡 WORST EXPERIENCE EVER ordered 10 days ago still NOTHING!! tracking has said out for delivery for THREE days straight 🤦 called support twice zero help agent was rude asked for a supervisor and was told not available 😤 order SNX-7721 OnePlus phone NEED IT NOW or CANCEL and FULL REFUND 💸💸,"Issue: Customer's order for a OnePlus phone has not been delivered after 10 days, with tracking stuck on ""out for delivery.""  
+Summary: The customer is frustrated with the delay in receiving their order (SNX-7721) and has had negative experiences with customer support. They are requesting either immediate delivery or a full refund.  
+Action: Investigate the order status and provide an update to the customer, or process the cancellation and refund if necessary.","Greeting: Thank you for reaching out and sharing your concerns about the delay with your OnePlus phone order.
+
+Body: I understand how frustrating this situation must be, and I am here to help. We will investigate the current status of your order (SNX-7721) to determine why it is still marked as ""out for delivery."" Based on what we find, we will either provide an update on the delivery or proceed with processing a cancellation and refund if needed.
+
+Closing: We will update you as soon as we have more information on your order status."
+16,"To Whom It May Concern, I am writing this formal communication to bring to your attention a matter of considerable concern regarding a transaction completed on your platform on the 14th of this month. I have been a registered ShopNest customer for several years and have completed numerous transactions without incident. I consider myself a diligent and detail-oriented consumer and have retained all relevant documentation including the original order confirmation, payment receipt, delivery confirmation, and photographic evidence which I am prepared to submit upon request. I have deliberately refrained from posting publicly about this matter as I prefer to resolve disputes through proper channels, though I reserve the right to escalate if necessary. The core issue is this: Order reference SNX-5502 for one LG 22 cubic foot French door refrigerator was delivered on the confirmed date, however upon inspection the unit delivered is a 19 cubic foot model and not the 22 cubic foot model I ordered and paid for. The price difference is approximately $340. I am requesting either an immediate replacement with the correct model or a refund of the price differential.","Issue: Incorrect refrigerator model delivered.  
+Summary: The customer ordered a 22 cubic foot LG refrigerator (Order SNX-5502) but received a 19 cubic foot model instead. They are seeking either a replacement with the correct model or a refund of the price difference of $340.  
+Action: Verify the order details and arrange for a replacement or refund as requested.","Greeting: Thank you for bringing this to our attention, and I'm sorry for the inconvenience you've experienced.
+
+Body: We will verify the order details for your 22 cubic foot LG refrigerator and arrange for a replacement with the correct model or a refund of the $340 price difference, as you prefer. Our team will review your case and update you on the next steps.
+
+Closing: Please expect further communication from us soon regarding the resolution of your issue."
+17,I already submitted a complaint about this last week. I have a ticket number somewhere but I cannot find it right now. Nobody followed up with me. I am submitting again. Same issue as before. Please look up my account and check the previous case. My order involves the headphones I ordered last month.,"Issue: Customer is resubmitting a complaint regarding an unresolved issue with a headphone order.  
+Summary: The customer previously submitted a complaint but has not received any follow-up. They are unable to locate their original ticket number and request that the support team check their account for the previous case related to the headphones ordered last month.  
+Action: Look up the customer's account and previous ticket to address the ongoing issue with the headphone order.","Greeting: Thank you for reaching out again about your headphone order issue.
+
+Body: We understand your concern and will check your account for the previous ticket related to your headphone order from last month. This will help us address the ongoing issue effectively.
+
+Closing: We will update you once we have reviewed your account and located the previous case."
+18,Your DoorDash driver was over an hour late and my food arrived completely cold. The driver never called or knocked. I want a full refund for the entire order. I ordered a burger combo and two drinks. Extremely disappointed with this service.,"Issue: The DoorDash driver was over an hour late, and the food arrived cold.  
+Summary: The customer experienced significant delays with their DoorDash order, resulting in cold food upon arrival. They are requesting a full refund for the burger combo and two drinks due to dissatisfaction with the service.  
+Action: Process the refund request and address the customer's concerns regarding the delivery service.","Greeting: I'm sorry to hear about the delay and the condition of your order.
+
+Body: We will process your refund request for the burger combo and two drinks. Additionally, we will review the delivery service issue to improve future experiences.
+
+Closing: You will receive confirmation once the refund has been processed."
+19,"First I just want to say I genuinely love ShopNest and have been a customer for years. Your app is intuitive, delivery is usually really fast, and the return process has always been seamless. Your support team has been incredibly helpful in the past and I have recommended this platform to pretty much everyone in my neighborhood. That said I do want to flag one issue. Order SNX-1142 for a range hood was placed nine days ago. There has been no delivery and no update whatsoever. Tracking shows it left the warehouse eight days ago and has not moved since. That is all - just hoping someone can look into it.","Issue: Delay in delivery of order SNX-1142 for a range hood.  
+Summary: The customer reports that their order placed nine days ago has not been delivered and there have been no updates. Tracking indicates the item left the warehouse eight days ago but has not progressed.  
+Action: Investigate the status of order SNX-1142 and provide an update to the customer.","Greeting: Thank you for reaching out about the delay in your order delivery.
+
+Body: We understand your concern and are currently investigating the status of your order SNX-1142. Our team will check with the shipping carrier to determine why there has been no progress since it left the warehouse.
+
+Closing: We will update you as soon as we have more information about your order's status."
+20,my order for the blue jacket still hasnt arrived. i think i placed it last tuesday or wednesday. i dont have the order number handy but it was somewhere around $65 or $70 i think. can someone check and let me know what is going on,"Issue: Order for a blue jacket has not arrived.  
+Summary: The customer placed an order for a blue jacket last Tuesday or Wednesday and is inquiring about its status. They do not have the order number but estimate the cost to be around $65 or $70.  
+Action: Locate the order using the customer's details and provide an update on the shipping status.","Greeting: Thank you for reaching out about your order for the blue jacket.
+
+Body: We understand how important it is to receive your order promptly. To help us locate your order and provide an update on the shipping status, could you please confirm the email address used at the time of purchase? This will allow us to find your order details without the order number.
+
+Closing: Once we have this information, we'll be able to update you on the status of your shipment."
+21,"I work in software so I have a reasonable understanding of how inventory systems work and what happened here is clearly a stock management failure on your end. Your system showed the item as in stock. I placed the order. My card was charged. A confirmation was sent. Then six hours later I received an automated cancellation email citing stock unavailability. If the item was not available your system should not have listed it as in stock - this is basic inventory hygiene. Furthermore the refund has not posted after five business days. Per your own published policy the refund SLA is three to five business days. We are now past that window. Order SNX-0032 cancelled, $249.99 not refunded. Requesting immediate escalation to your billing team.","Issue: Stock management failure and delayed refund for order SNX-0032.  
+Summary: The customer placed an order for an item that was incorrectly shown as in stock, leading to a cancellation due to stock unavailability. Additionally, the customer has not received a refund for the order after five business days, exceeding the stated refund SLA.  
+Action: Escalate the issue to the billing team for immediate resolution of the refund.","Greeting: I understand your frustration regarding the stock issue and delayed refund for your order SNX-0032.
+
+Body: We are escalating this matter to our billing team to ensure that your refund is processed as quickly as possible. Your patience is appreciated as we work to resolve this issue.
+
+Closing: Please feel free to reach out if you have any further questions or need updates on this matter."
+22,hi I ordered a blender order number SNX-6644 and it was delivered yesterday but when I opened the box the glass jar was cracked and there was also a visible dent on the base of the unit and I tried to use it anyway but it is making a really loud grinding noise and honestly I am scared to keep using it in case it breaks further or causes an injury so I want to return it and get a replacement sent but the return window says 10 days and I want to make sure I am still within that window because I really do not want to be stuck with a broken appliance that showed up damaged right out of the box,"Issue: Damaged blender received with a cracked jar and dented base.  
+Summary: The customer received a blender (order number SNX-6644) that arrived with a cracked glass jar and a dent on the base. They are concerned about using it due to a loud grinding noise and want to ensure they can return it for a replacement within the 10-day return window.  
+Action: Confirm the return eligibility and initiate the replacement process for the damaged blender.","Greeting: I'm sorry to hear that your blender arrived damaged.
+
+Body: We will confirm the return eligibility for your order SNX-6644 and initiate the replacement process for the damaged blender. Our team will review your case to ensure the return is processed within the 10-day window.
+
+Closing: Please expect an update from us soon regarding the next steps for your replacement."
+23,SNX-3301. DOA unit. Need RMA issued. Escalate to L2. Already past SLA window.,"Issue: Customer requests an RMA for a DOA unit SNX-3301.  
+Summary: The customer has reported that the unit SNX-3301 is dead on arrival (DOA) and is requesting a return merchandise authorization (RMA). They have indicated that the issue needs to be escalated to Level 2 support as it is already past the service level agreement (SLA) window.  
+Action: Issue an RMA and escalate the ticket to Level 2 support.","Greeting: Thank you for reaching out to us about the DOA unit SNX-3301.
+
+Body: We will issue an RMA for the unit and escalate your ticket to our Level 2 support team for further assistance. This will ensure that your issue is handled with the priority it requires.
+
+Closing: Please expect further communication from our Level 2 support team regarding the next steps."
+24,"You know what I am just going to say it. I have never in my life had to fight this hard just to get something I already paid for. Your app promised two day delivery. It has been eight days. I have screenshots. Your chatbot gave me three completely different delivery dates. Your support email told me to contact the seller. The seller told me to contact ShopNest. You told me to contact the seller. Around and around we go. This is textbook buck-passing and it is completely unacceptable behavior from a company of your size. I have already filed a complaint with the FTC and I have spoken with a consumer rights attorney who confirmed I have grounds to pursue damages for this level of negligence. Do not for a second think I am bluffing. My only ask is simple: Order SNX-8112, Cuisinart coffee maker, either deliver it or refund me $79. That is the whole ask.","Issue: Customer is frustrated with delayed delivery and lack of resolution for order SNX-8112.  
+Summary: The customer has been waiting eight days for a Cuisinart coffee maker that was promised for two-day delivery. They have received conflicting information from the chatbot and support emails, leading to frustration and escalation of the issue. The customer is requesting either delivery of the item or a refund of $79.  
+Action: Investigate the order status and provide a resolution regarding delivery or initiate a refund.","Greeting: I'm sorry to hear about the frustration you've experienced with the delayed delivery of your order SNX-8112.
+
+Body: We will investigate the status of your order to determine the cause of the delay and provide you with a resolution regarding the delivery or initiate a refund. Your patience is appreciated as we work to resolve this issue.
+
+Closing: We will update you as soon as we have more information on the status of your order."
+25,"Hi, my order has not arrived and it has been almost two weeks. Order number SNX-5591. I ordered a GE chest freezer which I really need for my household. The old one stopped working and my family has been managing without one since the order was placed. Tracking has not updated in over a week. Please either arrange delivery as soon as possible or process a refund. Thank you.","Issue: Order SNX-5591 for a GE chest freezer has not arrived after two weeks.  
+Summary: The customer reports that their order for a GE chest freezer has not been delivered, and tracking information has not updated in over a week. They request either expedited delivery or a refund due to the urgency of needing the freezer.  
+Action: Investigate the order status and provide an update on delivery or initiate a refund process.","Greeting: Thank you for reaching out about the delay with your GE chest freezer order.
+
+Body: We understand the urgency of your situation and will investigate the current status of your order SNX-5591 to determine the next steps. Once we have more information, we will update you on the delivery status or proceed with initiating a refund process if necessary.
+
+Closing: We appreciate your patience and will follow up with an update as soon as possible."
+26,"Hi, just wanted to check on the status of my order SNX-9910. I placed it three days ago and the app still shows processing. No urgency, just wanted to make sure everything is moving along. Thanks.","Issue: Customer is inquiring about the status of their order SNX-9910.  
+Summary: The customer placed order SNX-9910 three days ago and it is still showing as processing in the app. They are not in a hurry but want to confirm that the order is progressing.  
+Action: Check the order status and provide an update to the customer.","Greeting: Thank you for reaching out about the status of your order SNX-9910.
+
+Body: I understand your concern about the order still showing as processing. I will check the current status of your order and provide you with an update as soon as possible.
+
+Closing: I will follow up with you once I have more information on your order's progress."
+27,"Hello, quick question - what is your standard return window for electronics? I bought a pair of headphones last week and I am thinking about returning them but wanted to confirm how many days I have before checking in store. Thanks in advance.","Issue: Customer inquires about the return window for electronics.  
+Summary: The customer purchased a pair of headphones last week and is considering returning them. They want to confirm the number of days allowed for returns before visiting the store.  
+Action: Provide the standard return window for electronics and any relevant return policy details.","Greeting: Thank you for reaching out with your question about the return window for electronics.
+
+Body: Our standard return window for electronics is 30 days from the date of purchase. Please ensure that the headphones are in their original packaging and include all accessories when you visit the store for a return.
+
+Closing: If you have any further questions or need assistance with the return process, feel free to let us know."
+28,Hi there. I received my order SNX-7823 today and everything looks great. I just noticed the invoice in the box shows a different price than what I was charged at checkout. The difference is only a couple of dollars but wanted to flag it just in case. Could someone take a look when you get a chance? No rush.,"Issue: Invoice price discrepancy noted after receiving order SNX-7823.  
+Summary: The customer received their order and found that the invoice shows a different price than what was charged at checkout. The difference is minor, but the customer wants it addressed.  
+Action: Review the invoice and checkout pricing for order SNX-7823 to clarify the discrepancy.","Greeting: Thank you for bringing this pricing discrepancy to our attention.
+
+Body: We will review the invoice and checkout pricing for your order SNX-7823 to clarify the difference. Our team will investigate the details and ensure that everything is accurate.
+
+Closing: We will update you with our findings shortly."
+29,"Hey, I placed an order yesterday evening - order number SNX-6651 - and I realized this morning I entered the wrong apartment number in my delivery address. The street and zip code are correct, just the unit number is wrong. Can this be updated before it ships? Happy to provide the correct address.","Issue: Customer needs to update the apartment number in their delivery address for order SNX-6651.  
+Summary: The customer placed an order yesterday and noticed that the apartment number is incorrect. They confirmed that the street and zip code are correct and are willing to provide the correct unit number.  
+Action: Update the delivery address with the correct apartment number before shipping.","Greeting: Thank you for reaching out about updating your delivery address.
+
+Body: We understand the importance of having the correct apartment number for your order SNX-6651. Please reply with the correct apartment number so we can update your delivery address before the order is shipped.
+
+Closing: Once we receive the correct apartment number, we'll ensure your address is updated promptly."
+30,"Hi, I was just checking whether my recent return has been received on your end. I shipped it back about four days ago using the prepaid label you sent. The tracking shows it was delivered to your warehouse two days ago. Just wanted to confirm the refund is being processed. Order was SNX-4430. Thanks.","Issue: Customer is inquiring about the status of a return and refund for order SNX-4430.  
+Summary: The customer shipped a return using a prepaid label and the tracking indicates it was delivered to the warehouse two days ago. They are seeking confirmation that the refund is being processed.  
+Action: Confirm receipt of the return and update the customer on the refund status.","Greeting: Thank you for reaching out about your return for order SNX-4430.
+
+Body: We have received your returned item at our warehouse, as confirmed by the tracking information. I will now check the status of your refund process to ensure everything is on track.
+
+Closing: I will update you shortly with the status of your refund."

@@ -1,0 +1,5 @@
+{
+  "OPENAI_API_KEY": "YOUR_KEY_HERE",
+  "OPENAI_API_BASE": "https://your-base-url.example.com/v1"
+}
+

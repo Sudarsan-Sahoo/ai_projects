@@ -1,0 +1,5 @@
+pandas==2.2.2
+langchain-openai==1.1.12
+langchain-core==1.5.3
+openai==2.31.0
+
