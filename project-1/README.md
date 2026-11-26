@@ -23,15 +23,15 @@ By default it runs **offline** (no API calls) using the precomputed outputs in `
 ```mermaid
 flowchart TD
   A[Load tickets CSV] --> B{Mode}
-  B -->|Offline (default)| C[Read outputs/final_consolidated_ticket_outputs.csv]
-  C --> D[Write outputs/offline_report.md]
+  B -->|Offline default| C[Read precomputed final CSV]
+  C --> D[Write offline report]
 
-  B -->|Online| E[Summarize tickets (LLM)]
-  E --> F[Evaluate summaries (LLM)]
-  F --> G[Generate replies (LLM)]
-  G --> H[Evaluate replies (LLM)]
-  H --> I[Write outputs/consolidated_ticket_outputs.csv]
-  I --> J[Write outputs/final_consolidated_ticket_outputs.csv]
+  B -->|Online| E[Summarize tickets with LLM]
+  E --> F[Evaluate summaries with LLM]
+  F --> G[Generate replies with LLM]
+  G --> H[Evaluate replies with LLM]
+  H --> I[Write consolidated CSV]
+  I --> J[Write final CSV]
   J --> D
 ```
 
